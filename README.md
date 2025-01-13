@@ -53,7 +53,7 @@ Here are the Tools I work with:
 ## 💡 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-kumar-soni-99362122a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Kaushal30637618?t=iyA_ErzpGyfxMO2c4zibIw&s=08)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](<[mailto:kaushalkumarsoni69@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCMtPNCbzGgntFsLWTTKRlhGfVrbhVmbPRMpQgjgCMFCzDtFhxbfSlfgNDFxcpsNjQLhxH)>)
 
