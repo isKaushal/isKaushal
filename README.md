@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Frontend Web Developer with exper
 
 ## 🌟 About Me
 
-- 🌍 Based in [Your Location]
+- 🌍 Based in Jaipur, Rajasthan, India
 - 💻 Currently working as a **Frontend Developer** at Ambient Infotech
 - 🌱 Learning and exploring: TypeScript,Python, AI/ML, etc.
 - 💬 Ask me about: HTML, CSS, JavaScript, React, and UI/UX best practices
