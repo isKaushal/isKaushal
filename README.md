@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kaushal!
 
-**`Frontend Developer | Problem Solver | Tech Enthusiast`**
+**`Developer | Problem Solver | Tech Enthusiast`**
 
 Welcome to my GitHub profile! I'm a passionate Fullstack Developer with expertise in building responsive and user-friendly web applications. I love solving problems and exploring new technologies to create innovative solutions.
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Developer with expertis
 ## 🌟 About Me
 
 - 🌍 Based in Jaipur, Rajasthan, India
-- 💻 Currently working as a **Frontend Developer** 
+- 💻 Currently working as a **React Js Developer** 
 - 🌱 Learning and exploring: TypeScript,Python, AI/ML, etc.
 - 💬 Ask me about: HTML, CSS, JavaScript, React, and UI/UX best practices
 - 🌐 Fun fact: I enjoy contributing to open-source projects and collaborating with developers worldwide.
