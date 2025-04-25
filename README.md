@@ -2,7 +2,7 @@
 
 **`Frontend Developer | Problem Solver | Tech Enthusiast`**
 
-Welcome to my GitHub profile! I'm a passionate Frontend Web Developer with expertise in building responsive and user-friendly web applications. I love solving problems and exploring new technologies to create innovative solutions.
+Welcome to my GitHub profile! I'm a passionate Fullstack Developer with expertise in building responsive and user-friendly web applications. I love solving problems and exploring new technologies to create innovative solutions.
 
 ---
 
