@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kaushal!
+# 👋 Hi, I'm Kaushal !
 
 **`Developer | Problem Solver | Tech Enthusiast`**
 
