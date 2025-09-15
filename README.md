@@ -4,8 +4,6 @@
 
 Welcome to my GitHub profile! I'm a passionate Fullstack Developer with expertise in building responsive and user-friendly web applications. I love solving problems and exploring new technologies to create innovative solutions.
 
----
-
 ## 🌟 About Me
 
 - 🌍 Based in Jaipur, Rajasthan, India
@@ -13,8 +11,6 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Developer with expertis
 - 🌱 Learning and exploring: TypeScript,Python, AI/ML, etc.
 - 💬 Ask me about: HTML, CSS, JavaScript, React, and UI/UX best practices
 - 🌐 Fun fact: I enjoy contributing to open-source projects and collaborating with developers worldwide.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -35,8 +31,6 @@ Here are the technologies I work with:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
 ## 🛠️ Tools
 
 Here are the Tools I work with:
@@ -48,16 +42,12 @@ Here are the Tools I work with:
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
 ## 💡 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-kumar-soni-99362122a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Kaushal30637618?t=iyA_ErzpGyfxMO2c4zibIw&s=08)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
-
----
 
 ⭐️ **Feel free to check out my repositories and star your favorite projects!**
 
